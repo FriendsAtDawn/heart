@@ -1,1 +1,1 @@
-This is a test for deploying on NTFS and fleek. It works!
+This is a test for deploying on IPFS and fleek. It works!
